@@ -2,7 +2,6 @@
 
 Una aplicación web sencilla pero completa para gestionar tareas, construida con el stack MERN (MongoDB, Express, React, Node.js). Este proyecto forma parte de la tarea práctica "Tu App en la Nube: De local a global".
 
-![Captura de pantalla de la aplicación](https://via.placeholder.com/800x450?text=Captura+de+pantalla+de+la+aplicaci%C3%B3n)
 
 ## Características
 
