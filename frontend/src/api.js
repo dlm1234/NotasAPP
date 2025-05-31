@@ -1,4 +1,4 @@
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
+const API_URL = process.env.REACT_APP_API_URL || 'https://simple-to-do-app-gmls.onrender.com';
 
 export const getTasks = async () => {
   const response = await fetch(`${API_URL}/tasks`);
