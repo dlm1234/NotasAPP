@@ -63,8 +63,8 @@ La aplicación cuenta con:
 
 **Puedes acceder al código fuente del proyecto de las siguientes maneras:**
 
-- 🌐 **Demo en vivo**: [https://tu-app-tareas.render.com](https://tu-app-tareas.render.com)
-- 📂 **Repositorio GitHub**: [https://github.com/tu-usuario/simple-todo-app](https://github.com/tu-usuario/simple-todo-app)
+- 🌐 **Demo en vivo**: [https://simple-to-do-app-nine.vercel.app/](https://simple-to-do-app-nine.vercel.app/)
+- 📂 **Repositorio GitHub**: [https://github.com/dlm1234/simple-to-do-app](https://github.com/dlm1234/simple-to-do-app)
 - 📥 **Descargar ZIP**: Haz clic en "Code" → "Download ZIP" en GitHub
 
 ## 🛠️ Abre y ejecuta el proyecto
