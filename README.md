@@ -77,6 +77,21 @@ Antes de comenzar, asegúrate de tener instalado:
 - **MongoDB** (local o cuenta en MongoDB Atlas) - [Instrucciones aquí](https://www.mongodb.com/)  
 - **Git** para clonar el repositorio - [Descargar aquí](https://git-scm.com/)
 
+## 🗄️ Base de datos
+
+### Estructura de la colección `tasks`
+
+La aplicación utiliza **MongoDB** con una estructura de datos simple y eficiente:
+
+```javascript
+{
+  _id: ObjectId("..."),           // ID único generado por MongoDB
+  title: "Completar el proyecto", // Título de la tarea (String, requerido)
+  completed: false,               // Estado de completado (Boolean, default: false)
+  createdAt: "2024-01-15T10:30:00.000Z" // Fecha de creación (Date, automático)
+}
+```
+
 ### 🚀 Instalación paso a paso
 
 1. **Clona el repositorio:**
